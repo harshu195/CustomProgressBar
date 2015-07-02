@@ -8,14 +8,14 @@
             android:pivotY="50%"
             android:toDegrees="270" >
             <shape
-                android:innerRadiusRatio="3"
+                android:innerRadiusRatio="2.8"
                 android:shape="ring"
-                android:thicknessRatio="14.0"
+                android:thicknessRatio="40.0"
                 android:useLevel="true" >
                 <gradient
-                    android:centerColor="#A9E2F3"
-                    android:endColor="#A9E2F3"
-                    android:startColor="#A9E2F3"
+                    android:centerColor="#88153e"
+                    android:endColor="#88153e"
+                    android:startColor="#88153e"
                     android:type="sweep" />
             </shape>
         </rotate>
@@ -29,12 +29,12 @@
             <shape
                 android:innerRadiusRatio="3"
                 android:shape="ring"
-                android:thicknessRatio="14.0"
+                android:thicknessRatio="12.0"
                 android:useLevel="true" >
                 <gradient
-                    android:centerColor="#26ce61"
-                    android:endColor="#26ce61"
-                    android:startColor="#26ce61"
+                    android:centerColor="#d51c55"
+                    android:endColor="#d51c55"
+                    android:startColor="#d51c55"
                     android:type="sweep" />
             </shape>
         </rotate>
